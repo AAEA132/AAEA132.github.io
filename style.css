@@ -49,7 +49,7 @@ a:hover {
 
 .sidebar p {
   font-size: 0.7em;
-  color: #666;
+  color: #555;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -63,7 +63,7 @@ a:hover {
 
 .social-links a {
   margin: 0 5px;
-  color: #666;
+  color: #0056b3;
 }
 
 .content {
