@@ -1,0 +1,1 @@
+This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use. If you do clone this code, please attribute the source to the original website or this repo. You can do this by adding the links to your own website in the index.html.
